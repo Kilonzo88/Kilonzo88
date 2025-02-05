@@ -30,9 +30,6 @@
 -This is a decentralized raffle contract that enables players to participate in a lottery game
 - **Tech Stack**: Solidity.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kilonzo88&show_icons=true&theme=radical)
-
 ## 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilonzo88&layout=compact&theme=radical)
 
