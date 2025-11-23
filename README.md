@@ -18,7 +18,7 @@
   </a>&nbsp;
   
   <a href="[YOUR MEDIUM LINK HERE]" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zySmlW__8xxxTZjZLvH8dg.jpeg" height="30" alt="Medium" />
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5NKHQDjC1cUC441HTejxuQ.png" height="30" alt="Medium" />
   </a>
 </p>
 
