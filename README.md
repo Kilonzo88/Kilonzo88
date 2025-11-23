@@ -2,6 +2,7 @@
 
 ### Fullstack and Smart Contract Engineer | Rust & Solidity Specialist
 
+Check out socials!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dennis-kilonzo-0aba20222/" target="_blank">
