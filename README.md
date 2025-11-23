@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Dennis Kilonzo
+# 👋 Meet Dennis Kilonzo
 
-### Smart Contract Engineer & Founder | Rust & Solidity Specialist
+### Fullstack and Smart Contract Engineer | Rust & Solidity Specialist
 
-> 🚀 **The Hook:** I architect high-assurance decentralized systems. I am currently building hybrid Web2/Web3 infrastructure that solves real-world fragmentation in Healthcare and DeFi, utilizing Rust for performance and Solidity for trustless execution.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dennis-kilonzo-0aba20222/" target="_blank">
@@ -25,18 +24,35 @@
 ---
 
 ## 🚀 About Me
-* **Zero-to-One Builder:** As a Founder, I don't just write code; I design product architectures that balance technical decentralization with user experience.
-* **Polymath Approach:** I combine systems engineering (Rust) with smart contract logic (Solidity) to build full-stack decentralized applications.
-* **Current Focus:** Creating a "Hybrid Decentralized Identity System" to revolutionize how patient data is secured and shared.
+I architect high-assurance decentralized systems. I am currently building hybrid Web2/Web3 infrastructure that solves real-world fragmentation in Healthcare and DeFi, utilizing Rust for performance and Solidity for trustless execution.
+
+* **Zero-to-One Builder:** As a Founder, I'm not just a coding enthusiast meaning I design product architectures that balance technical decentralization with user experience.
+* **System  Thinker:** Passion for solving complex problems with elegant architecture i.e systems engineering (Rust) with smart contract logic (Solidity)
+* **Simplicity:** Believer in clean code, clear thinking, and fast iteration
 
 ---
 
 ## 🏗️ What I Build
-* **DeFi Primitives:** Algorithmic stablecoins and collateralized lending protocols.
-* **Decentralized Identity (DID):** Privacy-preserving identity solutions for sensitive sectors like Healthcare.
-* **Hybrid Architectures:** Systems that bridge the gap between traditional Web2 auth (Social Logins) and Web3 custody.
+1. High-performance backend systems
+
+2. Blockchain/DeFi infrastructure
+
+3. Scalable APIs & microservices
+
+4. Smart contract systems (audited + production-ready)
+
+5. Systems-level tooling and CLI utilities
 
 ---
+## 📈 My Engineering Philosophy
+
+1. Security and correctness first
+
+2. Design for observability and maintainability
+
+3. Prefer clarity over cleverness
+
+4. Ship fast, learn faster, refactor with intention
 
 ## 🏆 Featured Projects
 
@@ -77,13 +93,6 @@
 
 ---
 
-## 📈 Engineering Philosophy
-* **Security is Non-Negotiable:** In Web3, a bug isn't just an error; it's a financial loss. I prioritize rigorous testing and formal verification concepts.
-* **User Experience First:** Decentralization shouldn't hurt. I build systems where the "crypto" is invisible to the end-user.
-* **Ship to Learn:** I believe in rapid prototyping to validate assumptions, followed by rigorous refactoring for production.
-
----
-
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilonzo88&layout=compact&theme=radical&hide_border=true)
 
@@ -91,7 +100,7 @@
 
 ## 📫 Let's Connect
 
-I am currently open to **Smart Contract Engineering** and **Rust Backend** roles (Remote).
+I am currently open to Contract and Full-time **Smart Contract Engineering** and **Rust Backend** roles.
 
 * **Email:** [dennis.m.kilonzo3@gmail.com](mailto:dennis.m.kilonzo3@gmail.com)
 * **LinkedIn:** [Dennis Kilonzo](https://www.linkedin.com/in/dennis-kilonzo-0aba20222/)
