@@ -1,4 +1,4 @@
-# 👋 Meet Dennis Kilonzo
+# 👋 Hi, I’m Dennis Kilonzo
 
 ### Smart Contract Engineer & Founder | Rust & Solidity Specialist
 
@@ -9,7 +9,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://x.com/Dennis_K3" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="[YOUR SUBSTACK LINK HERE]" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
+  </a>
+   <a href="[YOUR MEDIUM LINK HERE]" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
@@ -51,7 +57,7 @@
 ---
 
 ## ✍️ Latest Writing
-*Technical deep dives and architectural thinking.*
+*Technical deep dives and architectural thinking published on Substack and Medium.*
 
 * **[Title of Your Article Here](Link)** - *[One sentence summary. e.g., "Exploring the architectural trade-offs of using Axum for high-performance web servers."]*
 
@@ -86,4 +92,4 @@ I am currently open to **Smart Contract Engineering** and **Rust Backend** roles
 
 * **Email:** [dennis.m.kilonzo3@gmail.com](mailto:dennis.m.kilonzo3@gmail.com)
 * **LinkedIn:** [Dennis Kilonzo](https://www.linkedin.com/in/dennis-kilonzo-0aba20222/)
-* **X / Twitter:** [@Dennis_K3](https://x.com/Dennis_K3)
+* **X:** [@Dennis_K3](https://x.com/Dennis_K3)
