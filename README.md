@@ -1,40 +1,89 @@
-<div align="left">
+# 👋 Meet Dennis Kilonzo
+
+### Smart Contract Engineer & Founder | Rust & Solidity Specialist
+
+> 🚀 **The Hook:** I architect high-assurance decentralized systems. I am currently building hybrid Web2/Web3 infrastructure that solves real-world fragmentation in Healthcare and DeFi, utilizing Rust for performance and Solidity for trustless execution.
+
+<p align="left">
   <a href="https://www.linkedin.com/in/dennis-kilonzo-0aba20222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://x.com/Dennis_K3" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
-</div>
+</p>
 
-# Hi, I'm Dennis Kilonzo 👋
-## Blockchain Developer | Solidity & Rust Enthusiast
+---
 
-### 🛠️ Tech Stack
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 About Me
+* **Zero-to-One Builder:** As a Founder, I don't just write code; I design product architectures that balance technical decentralization with user experience.
+* **Polymath Approach:** I combine systems engineering (Rust) with smart contract logic (Solidity) to build full-stack decentralized applications.
+* **Current Focus:** Creating a "Hybrid Decentralized Identity System" to revolutionize how patient data is secured and shared.
 
-## 🚀 Top Projects
-- My top projects include;
-### [Decentralised Stable Coin](https://github.com/Avalanche-Team1-DAO-Kenya/StableCoin-Project)
-- This is a decentralized stable coin pegged to the US dollar offering an algorithmic approach to maintaining stability. Users can mint the DSC token using Bitcoin or Ethereum as collateral, ensuring transparency and decentralization.
-- **Tech Stack**: Solidity.
+---
 
-### [Decentralised CrowdSourcing Platform](https://github.com/Kilonzo88/Decentralized-CrowdSourcing)
-- This project enables crowdsourcing of funds in the decentralized environment. The contract owner can withdraw the funds sent to the contract
-- **Tech Stack**: Solidity.
+## 🏗️ What I Build
+* **DeFi Primitives:** Algorithmic stablecoins and collateralized lending protocols.
+* **Decentralized Identity (DID):** Privacy-preserving identity solutions for sensitive sectors like Healthcare.
+* **Hybrid Architectures:** Systems that bridge the gap between traditional Web2 auth (Social Logins) and Web3 custody.
 
-### [Smart Raffle Contract](https://github.com/Kilonzo88/foundry-lottery)
--This is a decentralized raffle contract that enables players to participate in a lottery game
-- **Tech Stack**: Solidity.
+---
 
-## 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilonzo88&layout=compact&theme=radical)
+## 🏆 Featured Projects
 
-## 📫 Let's Connect!
-I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out to me at [dennis.m.kilonzo3@gmail.com](mailto:dennis.m.kilonzo3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dennis-kilonzo-0aba20222/).
+### 🔹 [WeCare dApp](https://github.com/Kilonzo88/Health_Project_Remastered)
+*A hybrid Web2/Web3 healthcare records management system.*
 
-## 🌟 Fun Fact
-When I'm not coding, I enjoy reading and listening podcasts new technologies in the blockchain space.
+* **The Problem:** Medical records are currently siloed, prone to data breaches, and lack patient ownership.
+* **The Technical Challenge:** Integrating decentralized identity and storage without sacrificing the user experience of traditional social logins.
+* **The Solution:** Engineered a Flutter-based mobile interface backed by Rust and Solidity smart contracts. Implemented a robust data lifecycle that ensures clinical privacy while granting patients sovereign ownership of their history.
+* **Stack:** `Rust` `Solidity` `Flutter` `Decentralized Identity`
+
+### 🔹 [Decentralised Stable Coin](https://github.com/Talent-Index/StableCoin-Project)
+*An algorithmic stablecoin pegged to the US Dollar.*
+
+* **The Problem:** Traditional stablecoins rely on centralized custodians, introducing counterparty risk.
+* **The Technical Challenge:** Maintaining a strict 1:1 peg entirely on-chain without fiat reserves.
+* **The Solution:** Developed an algorithmic minting engine that uses Bitcoin and Ethereum as over-collateralized assets to ensure solvency.
+* **The Impact:** Provides a transparent, censorship-resistant medium of exchange compatible with the wider DeFi ecosystem.
+* **Stack:** `Solidity` `Foundry` `Chainlink Oracles`
+
+---
+
+## ✍️ Latest Writing
+*Technical deep dives and architectural thinking.*
+
+* **[Title of Your Article Here](Link)** - *[One sentence summary. e.g., "Exploring the architectural trade-offs of using Axum for high-performance web servers."]*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Smart Contracts** | `Solidity`, `Foundry`, `Hardhat`, `OpenZeppelin` |
+| **Systems Programming** | `Rust`, `Tokio`, `Axum` |
+| **Frontend/Mobile** | `Flutter`, `TypeScript`, `Web3.js` |
+| **DevOps & Tools** | `Git`, `CI/CD`, `Docker`, `Linux` |
+
+---
+
+## 📈 Engineering Philosophy
+* **Security is Non-Negotiable:** In Web3, a bug isn't just an error; it's a financial loss. I prioritize rigorous testing and formal verification concepts.
+* **User Experience First:** Decentralization shouldn't hurt. I build systems where the "crypto" is invisible to the end-user.
+* **Ship to Learn:** I believe in rapid prototyping to validate assumptions, followed by rigorous refactoring for production.
+
+---
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilonzo88&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+I am currently open to **Smart Contract Engineering** and **Rust Backend** roles (Remote).
+
+* **Email:** [dennis.m.kilonzo3@gmail.com](mailto:dennis.m.kilonzo3@gmail.com)
+* **LinkedIn:** [Dennis Kilonzo](https://www.linkedin.com/in/dennis-kilonzo-0aba20222/)
+* **X / Twitter:** [@Dennis_K3](https://x.com/Dennis_K3)
