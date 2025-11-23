@@ -6,16 +6,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dennis-kilonzo-0aba20222/" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height="30" alt="LinkedIn" />
+  </a>&nbsp;
+  
   <a href="https://x.com/Dennis_K3" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="30" alt="X" />
+  </a>&nbsp;
+  
   <a href="[YOUR SUBSTACK LINK HERE]" target="_blank">
-    <img src="https://img.shields.io/badge/-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
-  </a>
+    <img src="https://substackcdn.com/image/fetch/$s_!o5Fa!,w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" height="30" alt="Substack" />
+  </a>&nbsp;
+  
   <a href="[YOUR MEDIUM LINK HERE]" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zySmlW__8xxxTZjZLvH8dg.jpeg" height="30" alt="Medium" />
   </a>
 </p>
 
