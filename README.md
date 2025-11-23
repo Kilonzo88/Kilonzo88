@@ -17,10 +17,10 @@
     <img src="https://substackcdn.com/image/fetch/$s_!o5Fa!,w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" height="30" alt="Substack" />
   </a>&nbsp;
   
-  <a href="[YOUR MEDIUM LINK HERE]" target="_blank">
+  <!--<a href="[YOUR MEDIUM LINK HERE]" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5NKHQDjC1cUC441HTejxuQ.png" height="30" alt="Medium" />
   </a>
-</p>
+</p> -->
 
 ---
 
