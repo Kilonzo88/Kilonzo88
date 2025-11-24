@@ -2,27 +2,6 @@
 
 ### Fullstack and Smart Contract Engineer | Rust & Solidity Specialist
 
-Check out socials!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dennis-kilonzo-0aba20222/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height="30" alt="LinkedIn" />
-  </a>&nbsp;
-  
-  <a href="https://x.com/Dennis_K3" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="30" alt="X" />
-  </a>&nbsp;
-  
-  <a href="[YOUR SUBSTACK LINK HERE]" target="_blank">
-    <img src="https://substackcdn.com/image/fetch/$s_!o5Fa!,w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" height="30" alt="Substack" />
-  </a>&nbsp;
-  
-  <!--<a href="[YOUR MEDIUM LINK HERE]" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5NKHQDjC1cUC441HTejxuQ.png" height="30" alt="Medium" />
-  </a>
-</p> -->
-
----
 
 ## 🚀 About Me
 I architect high-assurance decentralized systems. I am currently building hybrid Web2/Web3 infrastructure that solves real-world fragmentation in Healthcare and DeFi, utilizing Rust for performance and Solidity for trustless execution.
@@ -78,6 +57,7 @@ I architect high-assurance decentralized systems. I am currently building hybrid
 
 ## ✍️ Latest Writing
 *Technical deep dives and architectural thinking published on Substack and Medium.*
+* **[How Blockchain Could Fix What’s Broken in Elections](https://medium.com/@dennis.m.kilonzo3/how-blockchain-could-fix-whats-broken-in-elections-f420ae12ccce):** From disputed results to sky-high costs, democracies worldwide are struggling with electoral integrity. The technology behind cryptocurrency might offer a way forward.
 
 * **[Title of Your Article Here](Link)** - *[One sentence summary. e.g., "Exploring the architectural trade-offs of using Axum for high-performance web servers."]*
 
@@ -114,6 +94,11 @@ Check out my socials!
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="30" alt="X" />
   </a>&nbsp;
   
-  <a href="[YOUR SUBSTACK LINK HERE]" target="_blank">
+  <a href="[https://substack.com/@denniskilonzo1?utm_campaign=profile&utm_medium=profile-page]" target="_blank">
     <img src="https://substackcdn.com/image/fetch/$s_!o5Fa!,w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" height="30" alt="Substack" />
   </a>&nbsp;
+
+  <a href="[https://medium.com/@dennis.m.kilonzo3]" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5NKHQDjC1cUC441HTejxuQ.png" height="30" alt="Medium" />
+  </a>
+</p> 
