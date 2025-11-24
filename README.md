@@ -103,6 +103,17 @@ I architect high-assurance decentralized systems. I am currently building hybrid
 
 I am currently open to Contract and Full-time **Smart Contract Engineering** and **Rust Backend** roles.
 
-* **Email:** [dennis.m.kilonzo3@gmail.com](mailto:dennis.m.kilonzo3@gmail.com)
-* **LinkedIn:** [Dennis Kilonzo](https://www.linkedin.com/in/dennis-kilonzo-0aba20222/)
-* **X:** [@Dennis_K3](https://x.com/Dennis_K3)
+Check out my socials!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dennis-kilonzo-0aba20222/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height="30" alt="LinkedIn" />
+  </a>&nbsp;
+  
+  <a href="https://x.com/Dennis_K3" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="30" alt="X" />
+  </a>&nbsp;
+  
+  <a href="[YOUR SUBSTACK LINK HERE]" target="_blank">
+    <img src="https://substackcdn.com/image/fetch/$s_!o5Fa!,w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack_wordmark.png" height="30" alt="Substack" />
+  </a>&nbsp;
