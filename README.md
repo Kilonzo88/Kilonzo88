@@ -59,18 +59,17 @@ I architect high-assurance decentralized systems. I am currently building hybrid
 *Technical deep dives and architectural thinking published on Substack and Medium.*
 * **[How Blockchain Could Fix What’s Broken in Elections](https://medium.com/@dennis.m.kilonzo3/how-blockchain-could-fix-whats-broken-in-elections-f420ae12ccce):** From disputed results to sky-high costs, democracies worldwide are struggling with electoral integrity. The technology behind cryptocurrency might offer a way forward.
 
-* **[Title of Your Article Here](Link)** - *[One sentence summary. e.g., "Exploring the architectural trade-offs of using Axum for high-performance web servers."]*
-
+* **[Beyond the Web3 Hype](https://kilonzo.substack.com/p/beyond-the-web-3-hype-why-smart-money):** The volatility of the past was the price of discovery. The stability of the future will be the prize of utility.
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Smart Contracts** | `Solidity`, `Foundry`, `Hardhat`, `OpenZeppelin` |
+| **Smart Contracts** | `Solidity`, `Foundry`, `OpenZeppelin` |
 | **Systems Programming** | `Rust`, `Tokio`, `Axum` |
-| **Frontend/Mobile** | `Flutter`, `TypeScript`, `Web3.js` |
-| **DevOps & Tools** | `Git`, `CI/CD`, `Docker`, `Linux` |
+| **Frontend/Mobile** | `Flutter`, `Web3.js` |
+| **DevOps & Tools** | `Git`, `Docker`, `Linux` |
 
 ---
 
