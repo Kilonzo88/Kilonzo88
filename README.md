@@ -8,7 +8,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 
 * **Zero-to-One Builder:** As an aspiring Founder, I don't  just code for the sake of it. I understand the importance of shipping value and therefore I design product architectures that balance technical decentralization, scalability and user experience.
 * **System  Thinker:** Passion for solving complex problems with elegant architecture i.e systems engineering (Rust) with smart contract logic (Solidity)
-* **Simplicity:** Believer in clean code, clear thinking, and fast iteration
+* **Simplicity:** No spaghetti code. I believe in clean code, and clear thinking. 
 
 ---
 
