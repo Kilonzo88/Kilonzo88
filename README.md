@@ -4,9 +4,9 @@
 
 
 ## 🚀 About Me
-I architect high-assurance decentralized systems. I am currently building hybrid Web2/Web3 infrastructure that solves real-world fragmentation in Healthcare and DeFi, utilizing Rust for performance and Solidity for trustless execution.
+I build high-assurance decentralized systems. I am currently building hybrid Web2/Web3 infrastructure that solves real-world fragmentation in Healthcare and DeFi, utilizing Rust for performance and Solidity for trustless execution.
 
-* **Zero-to-One Builder:** As a Founder, I'm not just a coding enthusiast meaning I design product architectures that balance technical decentralization with user experience.
+* **Zero-to-One Builder:** As an aspiring Founder, I don't  just code for the sake of it. I understand the importance of shipping value and therefore I design product architectures that balance technical decentralization, scalability and user experience.
 * **System  Thinker:** Passion for solving complex problems with elegant architecture i.e systems engineering (Rust) with smart contract logic (Solidity)
 * **Simplicity:** Believer in clean code, clear thinking, and fast iteration
 
