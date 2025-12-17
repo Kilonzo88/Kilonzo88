@@ -77,9 +77,10 @@ I architect high-assurance decentralized systems. I am currently building hybrid
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Smart Contracts** | `Solidity`, `Foundry`, `OpenZeppelin` |
+| **Smart Contracts** | `Solidity`, `Foundry`, `OpenZeppelin`, `Alchemy` |
 | **Systems Programming** | `Rust`, `Tokio`, `Axum` |
-| **Frontend/Mobile** | `Flutter`, `Web3.js` |
+| **Frontend/Mobile** | `Flutterflow`, `Web3.js` |
+| **Databases** | `Postgres`, `MongoDB`|
 | **DevOps & Tools** | `Git`, `Docker`, `Linux` |
 
 ---
