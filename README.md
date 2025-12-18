@@ -81,6 +81,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 | **Systems Programming** | `Rust`, `Tokio`, `Axum` |
 | **Frontend/Mobile** | `Flutterflow`, `Web3.js` |
 | **Databases** | `Postgres`, `MongoDB`|
+| **Distributed File System**| `IPFS`|
 | **DevOps & Tools** | `Git`, `Docker`, `Linux` |
 
 ---
