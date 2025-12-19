@@ -51,7 +51,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 * **The Technical Challenge:** Maintaining a strict 1:1 peg entirely on-chain without fiat reserves.
 * **The Solution:** Developed an algorithmic minting engine that uses Bitcoin and Ethereum as over-collateralized assets to ensure solvency.
 * **The Impact:** Provides a transparent, censorship-resistant medium of exchange compatible with the wider DeFi ecosystem.
-* **Stack:** `Solidity` `Foundry` `Chainlink PriceFeed Oracles` 
+* **Stack:** `Solidity`  `Chainlink PriceFeed Oracles` 
 
 ### 🔹 [LendingAPYAggregator](https://github.com/Kilonzo88/Lending_APY_Aggregator)
 *The project aggregates borrowing and lending rates from multiple DeFi protocols and recommends the best one.*
@@ -61,7 +61,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 * **The Solution:** Ensure the frontend calls the fluctuating APY rates while the gas fee optimized smart contracts handle the core logic of lending and borrowing
 * **The Impact:** Empowers users and automated agents to effortlessly find the most efficient lending opportunities across DeFi, driving safer participation and smarter capital flow across the entire ecosystem.
 .
-* **Stack:** `Solidity` `Foundry` `Chainlink CCIP`
+* **Stack:** `Solidity` `Chainlink CCIP`
   
 
 ---
