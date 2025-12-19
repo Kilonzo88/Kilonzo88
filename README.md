@@ -57,10 +57,10 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 
 * **The Problem:** DeFi participants and crypto-savvy investors seeking optimal lending/borrow yields across multiple protocols and chains face significant challenges.
 * **The Technical Challenge:** Blockchain interoperability of the different protocols is gas fee intensive.
-* **The Solution:** Ensure the frontend calls the fluctuating APY rates while the gas fee optimized smart contracts handle the core logic of lending and borrowing
+* **The Solution:** Ensure the frontend calls the fluctuating APY rates while the gas fee optimized smart contracts handle the core logic of lending and borrowing. The MVP aggregates Morpho on base and Aave on Avalanche C-Chain
 * **The Impact:** Empowers users and automated agents to effortlessly find the most efficient lending opportunities across DeFi, driving safer participation and smarter capital flow across the entire ecosystem.
 .
-* **Stack:** `Avalanche's C-Chain` `Base` `Solidity` `Chainlink CCIP` `Openzeppelin`
+* **Stack:** `Avalanche's C-Chain` `Base` `Aave` `Solidity` `Chainlink CCIP` `Openzeppelin`
   
 
 ---
