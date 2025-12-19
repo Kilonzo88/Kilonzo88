@@ -21,7 +21,6 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 
 4. Smart contract systems (audited + production-ready)
 
-5. Systems-level tooling and CLI utilities
 
 ---
 ## 📈 My Engineering Philosophy
