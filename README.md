@@ -42,7 +42,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 * **The Problem:** Medical records are currently siloed, prone to data breaches, and lack patient ownership.
 * **The Technical Challenge:** Integrating decentralized identity and storage without sacrificing the user experience of traditional social logins.
 * **The Solution:** Engineered a Flutter-based mobile interface backed by Rust and Solidity smart contracts. Implemented a robust data lifecycle that ensures clinical privacy while granting patients sovereign ownership of their history.
-* **Stack:** `Rust` `Solidity` `Flutter` `Decentralized Identity`
+* **Stack:** `Rust` `Solidity` `Openzeppelin` `Flutter` `Decentralized Identity` `Hedera Concencus Service`
 
 ### 🔹 [Decentralised Stable Coin](https://github.com/Talent-Index/StableCoin-Project)
 *An algorithmic stablecoin pegged to the US Dollar.*
@@ -51,7 +51,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 * **The Technical Challenge:** Maintaining a strict 1:1 peg entirely on-chain without fiat reserves.
 * **The Solution:** Developed an algorithmic minting engine that uses Bitcoin and Ethereum as over-collateralized assets to ensure solvency.
 * **The Impact:** Provides a transparent, censorship-resistant medium of exchange compatible with the wider DeFi ecosystem.
-* **Stack:** `Solidity` `Foundry` `Chainlink PriceFeed Oracles` `Hedera Concencus Service`
+* **Stack:** `Solidity` `Foundry` `Chainlink PriceFeed Oracles` 
 
 ### 🔹 [LendingAPYAggregator](https://github.com/Kilonzo88/Lending_APY_Aggregator)
 *The project aggregates borrowing and lending rates from multiple DeFi protocols and recommends the best one.*
