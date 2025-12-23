@@ -53,11 +53,11 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 * **Stack:** `Avalanche's C-Chain` `Ethereum L1` `Solidity`  `Chainlink PriceFeed Oracles` `Openzeppelin`
 
 ### 🔹 [LendingAPYAggregator](https://github.com/Kilonzo88/Lending_APY_Aggregator)
-*The project aggregates borrowing and lending rates from multiple DeFi protocols and recommends the best one.*
+*The project aggregates borrowing and lending rates from multiple DeFi protocols and recommends the best one. The MVP aggregates Morpho on base and Aave on Avalanche C-Chain*
 
 * **The Problem:** DeFi participants and crypto-savvy investors seeking optimal lending/borrow yields across multiple protocols and chains face significant challenges.
 * **The Technical Challenge:** Blockchain interoperability of the different protocols is gas fee intensive.
-* **The Solution:** Ensure the frontend calls the fluctuating APY rates while the gas fee optimized smart contracts handle the core logic of lending and borrowing. The MVP aggregates Morpho on base and Aave on Avalanche C-Chain
+* **The Solution:** Ensure the frontend calls the fluctuating APY rates while the gas fee optimized smart contracts handle the core logic of lending and borrowing. 
 * **The Impact:** Empowers users and automated agents to effortlessly find the most efficient lending opportunities across DeFi, driving safer participation and smarter capital flow across the entire ecosystem.
 .
 * **Stack:** `Avalanche's C-Chain` `Base` `Aave` `Solidity` `Chainlink CCIP` `Openzeppelin`
