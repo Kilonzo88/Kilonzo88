@@ -43,7 +43,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 * **The Solution:** Engineered a Flutter-based mobile interface backed by Rust and Solidity smart contracts. Implemented a robust data lifecycle that ensures clinical privacy while granting patients sovereign ownership of their history.
 * **Stack:** `Rust` `Solidity` `Openzeppelin` `Flutter` `Decentralized Identity` `Hedera Concencus Service`
 
-### 🔹 [Decentralised Stable Coin](https://github.com/Talent-Index/StableCoin-Project)
+### 🔹 [Algorithmic Decentralized Stable Coin](https://github.com/Talent-Index/StableCoin-Project)
 *An algorithmic stablecoin pegged to the US Dollar.*
 
 * **The Problem:** Traditional stablecoins rely on centralized custodians, introducing counterparty risk.
