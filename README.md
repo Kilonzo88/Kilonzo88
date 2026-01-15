@@ -95,11 +95,6 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilonzo88&layout=compact&theme=radical&hide_border=true&hide=Makefile)
-
----
-
 ## 📫 Let's Connect
 
 I am currently open to Contract and Full-time **Smart Contract Engineering** and **Rust Backend** roles.
