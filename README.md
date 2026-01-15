@@ -61,6 +61,16 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 * **The Impact:** Empowers users and automated agents to effortlessly find the most efficient lending opportunities across DeFi, driving safer participation and smarter capital flow across the entire ecosystem.
 .
 * **Stack:** `Avalanche's C-Chain` `Base` `Aave` `Solidity` `Chainlink CCIP` `Openzeppelin`
+
+### 🔹 [Mini_Zero Knowledge_Proof_System]([https://github.com/Kilonzo88/Lending_APY_Aggregator](https://github.com/Kilonzo88/Mini_ZKPs))
+*The project is a bare-bones Zero Knowledge system built from sratch without using DSLs like Noir/Circom*
+
+* **The Problem:** Most ZK developers treat proof systems as "black boxes," utilizing high-level compilers (Noir/Circom) without understanding the underlying arithmetization, finite field arithmetic, or how constraints are actually validated.
+* **The Technical Challenge:** Translating high-level logic (like Merkle Tree inclusion) into a Rank-1 Constraint System (R1CS) that uses non-standard cryptographic scalar fields (BN128) and implementing ZK-friendly hash functions (Poseidon) from the ground up.
+* **The Solution:** A custom Rust framework that implements fundamental ZK-SNARK building blocks: a FieldElement arithmetic engine, an R1CS constraint system for logic validation, and a circuit layer that generates verifiable binary proofs.
+* **The Impact:** Demystifies the "magic" of Zero-Knowledge Proofs by providing a transparent, code-first learning path. It serves as a bridge for developers to move from theoretical ZK math to professional production-grade DSLs with a deep understanding of the mechanics.
+.
+* **Stack:** `Rust` `Finite Field Arithmetic (BN128)` `Poseidon Hash` `R1CS` `Bincode Serialization`
   
 
 ---
