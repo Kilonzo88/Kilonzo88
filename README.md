@@ -62,7 +62,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 .
 * **Stack:** `Avalanche's C-Chain` `Base` `Aave` `Solidity` `Chainlink CCIP` `Openzeppelin`
 
-### 🔹 [Mini_Zero Knowledge_Proof_System]([https://github.com/Kilonzo88/Lending_APY_Aggregator](https://github.com/Kilonzo88/Mini_ZKPs))
+### 🔹 [Mini_Zero Knowledge_Proof_System](https://github.com/Kilonzo88/Mini_ZKPs)
 *The project is a bare-bones Zero Knowledge system built from sratch without using DSLs like Noir/Circom*
 
 * **The Problem:** Most ZK developers treat proof systems as "black boxes," utilizing high-level compilers (Noir/Circom) without understanding the underlying arithmetization, finite field arithmetic, or how constraints are actually validated.
