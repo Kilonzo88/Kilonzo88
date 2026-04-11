@@ -89,7 +89,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 | **Smart Contracts** | `Solidity`, `Foundry`, `OpenZeppelin`, `Alchemy` |
 | **Security & Auditing** | `Slither`, `Aderyn` |
 | **Systems Programming** | `Rust`, `Tokio`, `Axum` |
-| **Frontend/Mobile** | `Flutterflow`, `Web3.js` |
+| **Frontend/Mobile** | `Flutterflow`, `Web3.js`, `TypeScript`, `Next.js`, `React` |
 | **Databases** | `Postgres`, `MongoDB` |
 | **Distributed File System** | `IPFS` |
 | **Automation** | `n8n` |
