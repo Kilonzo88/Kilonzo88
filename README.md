@@ -92,7 +92,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 | **Frontend/Mobile** | `Flutterflow`, `Web3.js`, `TypeScript`, `Next.js`, `React` |
 | **Databases** | `Postgres`, `MongoDB` |
 | **Distributed File System** | `IPFS` |
-| **Automation** | `n8n` |
+| **Automation** | `n8n` | `Openclaw` |
 | **DevOps & Tools** | `Git`, `Docker`, `Linux` |
 
 ---
