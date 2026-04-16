@@ -98,7 +98,7 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 
 ## 📫 Let's Connect
 
-I am currently open to Contract and Full-time **Smart Contract Engineering** and **Rust Backend** roles.
+I am currently open to Contract and Full-time **Full-stack and Smart Contract Development**.
 
 Check out my socials!
 
