@@ -79,7 +79,6 @@ I build high-assurance decentralized systems. I am currently building hybrid Web
 *Technical deep dives and architectural thinking published on Substack and Medium.*
 * **[How Blockchain Could Fix What’s Broken in Elections](https://medium.com/@dennis.m.kilonzo3/how-blockchain-could-fix-whats-broken-in-elections-f420ae12ccce):** From disputed results to sky-high costs, democracies worldwide are struggling with electoral integrity. The technology behind cryptocurrency might offer a way forward.
 
-* **[Beyond the Web3 Hype](https://kilonzo.substack.com/p/beyond-the-web-3-hype-why-smart-money):** The volatility of the past was the price of discovery. The stability of the future will be the prize of utility.
 ---
 
 ## 🛠️ Tech Stack & Tools
