@@ -1,6 +1,6 @@
 # 👋 Meet Dennis Kilonzo
 
-### Fullstack and Smart Contract Engineer | Rust & Solidity Specialist
+### Fullstack Developer | Systems Architect | Smart Contracts Developer
 
 
 ## 🚀 About Me
