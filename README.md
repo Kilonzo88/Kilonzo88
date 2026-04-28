@@ -85,7 +85,7 @@ I build high-assurance decentralized systems. Here's my value proposition;
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Smart Contracts** | `Solidity`, `Foundry`, `OpenZeppelin`, `Alchemy` |
+| **Smart Contracts** | `Solidity`, `Foundry`, `OpenZeppelin`, `Alchemy` `Wagmi`, `Viem`, `RainbowKit` |
 | **Security & Auditing** | `Slither`, `Aderyn` |
 | **Systems Programming** | `Rust`, `Tokio`, `Axum` |
 | **Frontend/Mobile** | `Flutterflow`, `Web3.js`, `TypeScript`, `Next.js`, `React` |
