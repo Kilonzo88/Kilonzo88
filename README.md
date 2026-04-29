@@ -89,7 +89,7 @@ I build high-assurance decentralized systems. Here's my value proposition;
 | **Security & Auditing** | `Slither`, `Aderyn` |
 | **Systems Programming** | `Rust`, `Tokio`, `Axum` |
 | **Frontend/Mobile** | `Flutterflow`, `Web3.js`, `TypeScript`, `Next.js`, `React` |
-| **Databases** | `Postgres`, `MongoDB` |
+| **Databases** | `Postgres`, `MongoDB Atlas` |
 | **Distributed File System** | `IPFS` |
 | **Automation** | `n8n` | `Openclaw` |
 | **DevOps & Tools** | `Git`, `Docker`, `Linux` |
