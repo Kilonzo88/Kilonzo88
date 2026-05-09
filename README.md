@@ -1,6 +1,6 @@
 # 👋 Meet Dennis Kilonzo
 
-### Fullstack Developer | Systems Architect | Smart Contracts Developer
+### Fullstack Developer | Smart Contracts Developer
 
 
 ## 🚀 About Me
