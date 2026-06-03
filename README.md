@@ -1,6 +1,6 @@
 # 👋 Meet Dennis Kilonzo
 
-### Fullstack Developer | Smart Contracts Developer
+### Rust Backend | Smart Contracts Protocol Engineer
 
 
 ## 🚀 About Me
