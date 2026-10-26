@@ -1,6 +1,6 @@
 # 👋 Meet Dennis Kilonzo
 
-### Rust Backend | Smart Contracts Protocol Engineer
+### Rust Backend | Full-stack | Smart Contracts
 
 
 ## 🚀 About Me
